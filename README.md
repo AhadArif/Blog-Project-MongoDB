@@ -37,11 +37,11 @@ Ensure you have the following installed on your machine:
    cd your-repository
 
 2. Install dependencies:
- ```bash
+
  npm install
 
 3. Start the development server:
- ```bash
+
  npm run dev
 
 
@@ -51,6 +51,4 @@ Feel free to submit issues or pull requests for improvements! Contributions are 
 5. License
 This project is licensed under the MIT License.
 
-
-This will give proper credit to **RaddyTheBrand** for the inspiration and acknowledge the changes you made. Let me know if you'd like further edits!
-
+This project was inspired by RaddyTheBrand. I used references and guidance from their work and made modifications to suit my project’s needs.
