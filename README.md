@@ -37,10 +37,13 @@ Ensure you have the following installed on your machine:
    cd your-repository
 
 2. Install dependencies:
-~ npm install
+ ```bash
+ npm install
 
 3. Start the development server:
-~ npm run dev
+ ```bash
+ npm run dev
+
 
 4. Contributing
 Feel free to submit issues or pull requests for improvements! Contributions are welcome.
